@@ -1,7 +1,7 @@
 {
-  "name": "Globien",
-  "short_name": "Globien",
-  "description": "A new lingua franca, ",
+  "name": "noheadunhappy",
+  "short_name": "noheadunhappy",
+  "description": "Personal Blog",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",

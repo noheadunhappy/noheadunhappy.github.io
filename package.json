@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "NoHeadUnHappy-blog",
+    "title": "NoHeadUnHappy Blog",
+    "author": "NoHeadUnHappy <Junage_07@163.com>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": "http://noheadunhappy.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/noheadunhappy/noheadunhappy.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/noheadunhappy/noheadunhappy.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-contrib-less": "~0.11.4",

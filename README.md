@@ -1,3 +1,11 @@
+本仓库Fork自 `globien/globien.github.io`，在此基础上修改作为个人博客使用。
+
+感谢所以贡献者的付出。
+
+以下是原有的README
+
+---
+
 Welcome to Globien Project！
 
 格罗比言·全球语 (Globien) 是新一代人造国际语。她传承世界语 (Esperanto) 精神，融合中、英、法三大语言，更加简单易学，是更有效的国际沟通桥梁。
