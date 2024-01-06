@@ -1,9 +1,9 @@
 # Site settings
-title: NoHeadUnHappy Blog
-SEOTitle: NoHeadUnHappy - Makes Communication Easier
+title: 没头脑和不高兴
+SEOTitle: 没头脑和不高兴
 header-img: img/home-bg-bluestars.jpg
 email: Junage_07@163.com
-description: "NoHeadUnHappy's Personal Blog"
+description: "没头脑和不高兴的个人博客"
 keyword: "Blog"
 url: "https://noheadunhappy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
