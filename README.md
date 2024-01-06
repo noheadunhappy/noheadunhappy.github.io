@@ -1,6 +1,6 @@
 本仓库Fork自 `globien/globien.github.io`，在此基础上修改作为个人博客使用。
 
-感谢所以贡献者的付出。
+感谢所有贡献者的付出。
 
 以下是原有的README
 
